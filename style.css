@@ -10,6 +10,26 @@ body {
     background-image: linear-gradient(to right, #190a05, #870000);
 }
 
+.nav-link:hover {
+    font-weight: 600;
+    border-bottom: solid 1px #fff;
+}
+
+a {
+    color:#fff;
+}
+
+a:hover {
+    color:#870000;
+    border-bottom: 1px solid #870000;
+}
+
+
+
+
+
+
+
 
 
 
